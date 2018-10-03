@@ -1,0 +1,7 @@
+[package]
+name = "gradient_approximation"
+version = "0.1.0"
+authors = ["Howard Huang <howeih@gmail.com>"]
+
+[dependencies]
+ndarray = "0.11.0"
